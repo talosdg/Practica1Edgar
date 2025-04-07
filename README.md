@@ -1,2 +1,2 @@
 # Practica1Edgar
-Practica 1 del Módulo 6 Android 
+Práctica 1 del Módulo 6 del Diplomado de Applicaciones 
