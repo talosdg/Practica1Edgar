@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Places DB</string>
+    <string name="update_button">Actualizar</string>
+    <string name="delete_button">Eliminar</string>
+    <string name="confirmation">Confirmación</string>
+    <string name="delete_confirmation">¿Realmente deseas eliminar el lugar %1$s?</string>
+    <string name="game_deleted">Lugar eliminado exitosamente</string>
+    <string name="ok">Aceptar</string>
+    <string name="dish">Platillo</string>
+    <string name="header">Encabezado</string>
+    <string name="title">Nombre del lugar</string>
+    <string name="drink">Bebida</string>
+    <string name="state">Estado</string>
+    <string name="state_image">Imagen del estado elegido</string>
+    <string name="saved_message">Lugar guardado exitosamente</string>
+    <string name="error_message">Error al guardar el lugar</string>
+    <string name="updated_message">Lugar actualizado exitosamente</string>
+    <string name="error_up_message">Ocurrió un error al actualizar el lugar</string>
+    <string name="delete_message">Ocurrió un error el eliminar el lugar</string>
+    <string name="place">Lugar</string>
+    <string name="add_element">Agregrar elemento</string>
+    <string name="no_records">¡No hay lugares registrados!</string>
+    <string name="dish_box">Platillo típico</string>
+    <string name="state_box">Estado</string>
+    <string name="title_box">Título del lugar</string>
+
+    <string-array name="spinner_items">
+        <item>- Estado -</item>
+        <item>Estado de México</item>
+        <item>Queretaro</item>
+        <item>Tlaxcala</item>
+        <item>Puebla</item>
+        <item>Morelos</item>
+        <item>Hidalgo</item>
+    </string-array>
+</resources>
